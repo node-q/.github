@@ -15,8 +15,7 @@
 
 **Self-Evolving AI, Benchmarked for Trust.**
 
-Agent builders say their agents improve themselves, but few show a benchmark to prove it.
-We build [Harness Playground](https://nodeq.tech), where every result is pinned to three
+As AI agents learn to improve themselves, progress needs proof. We build [Harness Playground](https://nodeq.tech), where every result is pinned to three
 things: the harness and its version, the model, and the tests.
 
 - **Prove it got better.** Run each version of your harness on the same model and tasks,
@@ -27,7 +26,7 @@ things: the harness and its version, the model, and the tests.
 - **Evaluate harnesses for your domain.** Not everything is coding. If you don't know how
   to build a harness for your field, or don't want to hand your work to a third party, we
   can set up a private site on your own tasks, with its own database and domain, and none
-  of it public. Email [hello@nodeq.tech](mailto:hello@nodeq.tech).
+  of it public. [Talk to us](https://nodeq.tech/contact).
 
 hbench, our open source engine, runs Claude Code, Codex, Gemini CLI and 40+ more.
 
