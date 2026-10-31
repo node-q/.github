@@ -47,7 +47,6 @@ hbench, our open source engine, runs Claude Code, Codex, Gemini CLI and 40+ more
 | [hbench-action](https://github.com/node-q/hbench-action) | A GitHub Action for hbench. Find out which coding agent is best for your code, in CI. |
 | [hbench-action-example](https://github.com/node-q/hbench-action-example) | An example repository: three tasks and the workflows that run coding agents on them. |
 | [hbench-datasets](https://github.com/node-q/hbench-datasets) | Benchmark datasets for hbench, published as signed OCI artifacts. |
-| [hbench-releases](https://github.com/node-q/hbench-releases) | Release binaries of hbench. |
 
 ## Quick start
 
